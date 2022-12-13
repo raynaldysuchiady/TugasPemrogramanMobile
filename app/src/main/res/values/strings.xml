@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task Management</string>
+    <string name="image">image</string>
+    <string name="bersyte">D121201044</string>
+    <string-array name="category">
+        <item>Penting Mendesak</item>
+        <item>Tidak Penting Mendesak</item>
+        <item>Penting Tidak Mendesak</item>
+        <item>Tidak Penting Tidak Mendesak</item>
+    </string-array>
+</resources>
